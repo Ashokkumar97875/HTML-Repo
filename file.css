@@ -1,0 +1,46 @@
+/*@import url("fileimport"
+);
+h1{
+    color: yellow;
+    background-color: aqua;
+}
+p{
+    font-size: 15px;
+    background-color: blue;
+    color: yellow;
+}
+body{
+    background-color: bisque;
+    
+}
+*{
+    background-color: blueviolet;
+    color: lawngreen;
+}
+.Head_One{
+    background-color: indianred;
+    color: brown;
+    margin:0 auto;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: ;
+}
+h1,h2,p{
+    background-color: indianred;
+    color: brown; 
+}
+#Head_Two{
+    background-color: indianred;
+    color: brown;
+}*/
+.Head_One{
+    background-color: rgb(114, 114, 209);
+    color: brown;
+    height: 600px;
+    width: 500px;
+    margin:0 auto;
+    /*margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: ;*/
+    border:solid 5px black;
+}

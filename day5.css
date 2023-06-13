@@ -1,0 +1,32 @@
+#First_One{
+    background-color: rgb(118, 118, 238);
+    border:solid 2px black;
+    width: 600px;
+    height: 600px;
+}
+#Txt_One{
+    width: 50px;
+
+}
+.Cent_One{
+    margin-left: 500px;
+ 
+}
+
+#Student_Two{
+    height: 100px;
+    width: 600px;
+    background-color: rgb(23, 186, 214);
+    border:double 3px black;
+}
+#Date_One{
+    width: 40px;
+}
+#Address{
+    width: 450px;
+}
+#Student_One{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(23, 186, 214);
+}
